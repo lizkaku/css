@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#header {
+    text-align: center;
+    color: #8E26C0;
+}
+
+#chance {
+    max-width: 565px;
+    padding: 24px 40px;
+    background: #FFE8E8;
+    color: #F00;
+    font-size: 32px;
+    font-weight: 400;
+    margin-top: ;
+}
+
+#opportunity {
+
+    color: #0064CE;
+    margin-top: 237px ;
+    font-size: 32px;
+    padding: 24px 40px;
+    max-width: 1069px;
+    border-top: 2px solid #3538CD;
+    border-right: 2px solid #3538CD;
+    border-bottom: 2px solid #3538CD;
+    border-left: 2px solid #3538CD;
+}
+
+#take {
+    color: #85647b;
+    font-size: 40px;
+    max-width: 1023px;
+    border-top: 2px solid #05F;
+    border-right: 6px solid #06F;
+    border-bottom: 2px solid #C11574;
+    border-left: 5px solid #C11574;
+    margin-top: 56px;
+
+}
+
+#end {
+    color: #414651;
+    font-size: 32px;
+    padding: 24px 40px;
+    background: #FFE8E8;
+    max-width: 1023px;
+    margin-top: 68px ;
+}
